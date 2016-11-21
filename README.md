@@ -1,4 +1,5 @@
-# よく使うショートカット
+# ショートカット
+` Ctrl + P ` - サイドバーのファイルを検索して開く  
 
 # プラグイン
 * Package Control
@@ -22,3 +23,8 @@
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown内に記述したソースコードのシンタックスハイライト
 
 * [Material Theme](https://packagecontrol.io/packages/Material%20Theme) - Material Theme
+
+* [OmniSharp](https://github.com/OmniSharp/omnisharp-sublime) - C#の補完
+
+# Unity
+* [Unity で Sublime Text3 を使う (Unity + SublimeText + OmniSharp)](http://qiita.com/Miyatin/items/22adcf03b00d00ffa9f3)
