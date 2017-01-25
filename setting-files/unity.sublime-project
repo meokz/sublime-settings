@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "./",
+			"folder_exclude_patterns":
+			[
+				"Library", "Temp",
+			],
+			"file_exclude_patterns" :
+			[
+				"*.meta"
+			]
+		}
+	],
+	"solution_file": "./hoge.sln"
+}
